@@ -9,43 +9,37 @@ Follow these steps to set up and run the project on your local machine:
 1. **Clone the Repository**: 
    ```shell
    git clone https://github.com/YourUsername/YourBankingSystemRepo.git
-Compile the Java Code:
+2. **Compile the Java Code**:
 
-shell
-Copy code
-javac *.java
-Run the Application:
+   ```shell
+   javac *.java
+3. **Run the Application**:
 
-shell
-Copy code
-java BankingApp
-📂 Project Structure
-src/: Contains the Java source code files.
-database/: Includes SQL scripts for database setup.
-screenshots/: Screenshots of the application in action.
-📦 Features
-User Registration & Login
-Account Creation
-Debit and Credit Transactions
-Money Transfer Between Accounts
-Balance Inquiry
-Robust Security Measures
-🌐 Technologies Used
-Java
-JDBC (Java Database Connectivity)
-MySQL (or your preferred database system)
-📸 Screenshots
-Screenshot 1
+   ```shell
+   java BankingApp
 
-Screenshot 2
+# 📂 Project Structure
+- 'src/': Contains the Java source code files.
+- 'database/': Includes SQL scripts for database setup.
+- 'screenshots/': Screenshots of the application in action.
 
-🤝 Contributing
-Contributions are welcome! Feel free to submit issues and pull requests.
+# 📦 Features
+- User Registration & Login
+- Account Creation
+- Debit and Credit Transactions
+- Money Transfer Between Accounts
+- Balance Inquiry
+- Robust Security Measures
 
-📝 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+# 🌐 Technologies Used
+- Java
+- JDBC (Java Database Connectivity)
+- MySQL (or your preferred database system)
 
-📧 Contact
-If you have any questions or suggestions, please contact us at your@email.com.
+# 📸 Screenshots
+- Screenshot 1
 
-Happy coding! 🎉
+# 🤝 Contributing
+- Contributions are welcome! Feel free to submit issues and pull requests.
+
+# Happy coding! 🎉
