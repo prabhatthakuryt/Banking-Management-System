@@ -94,6 +94,9 @@ public class AccountManager {
                     System.out.println("Invalid Pin!");
                 }
             }
+            else{
+                System.out.println("Invalid account number");
+            }
         }catch (SQLException e){
                 e.printStackTrace();
             }
